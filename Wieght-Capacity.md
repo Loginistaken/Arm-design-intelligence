@@ -5,7 +5,7 @@ The Pinnacle of Human-Machine Integration Is Now Within Reach
 Welcome to Arm-Design Intelligence, a cutting-edge exoskeletal engineering solution
 designed to amplify human ability while respecting the biomechanics of the human body. 
 Developed with a deep understanding of physics, bioengineering, and cybernetics, 
-this isn’t just a robotic limb—it’s a mechanical revolution in motion.
+
 
 🚀 ENGINEERED FOR ENHANCED PERFORMANCE
 
